@@ -48,8 +48,8 @@ URL = "contact"
 name = "contact"
 weight = 7
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
+URL = "https://digitalstart.lt/"
+name = "Digital Start"
 weight = 8
 [params]
 author = "Digital Start"
