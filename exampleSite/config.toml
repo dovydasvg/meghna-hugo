@@ -21,23 +21,23 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "Apie mus"
+Name = "Apie mus"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Paslaugos"
+Name = "Paslaugos"
 weight = 2
 [[menu.main]]
 URL = "pricing"
-name = "Kainos"
+Name = "Kainos"
 weight = 5
 [[menu.main]]
 URL = "contact"
-name = "Susisiekti"
+Name = "Susisiekti"
 weight = 7
 [[menu.static]]
 URL = "https://digitalstart.lt/"
-name = "Digital Start"
+Name = "Digital Start"
 weight = 8
 [params]
 author = "Digital Start"
