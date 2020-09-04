@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: "/images/thisisengineering-raeng-txxifuqlbkq-unsplash-min.jpg"
   icon: ''
   title: Sukurkite Savo Online Mokymus
   content: "Nesvarbu ar kepate bandeles \U0001F950 ar esate vizažų meistrė \U0001F484
