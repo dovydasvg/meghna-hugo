@@ -1,12 +1,14 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: "Sukurkite Savo Online Mokymus \U0001F4BB"
+  content: "Nesvarbu ar kepate bandeles \U0001F950 ar esate vizažų meistrė \U0001F484
+    - Jūs galite savo žinias paversti mokymais.✨\nKlases.lt komanda padės jums pasiekti
+    savo tikslų. \U0001F3AC"
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Kur pradėti?
+    link: "#services"
