@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/john-schnobrich-2fpjlaymqta-unsplash.jpg"
+  image_webp: "/images/john-schnobrich-2fpjlaymqta-unsplash.webp"
   title: "Online mokymai nuo A iki Z \U0001F91D"
   content: "Mes jums padėsime susidėlioti visas mokymų detales. Mūsų tiklsas, kad
     online mokymai jums neštų pasyvias pajamas ir padėtų konvertuoti savo klientus
