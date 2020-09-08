@@ -19,6 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = []
 [[menu.main]]
 URL = "about"
 name = "Apie mus"
@@ -35,10 +37,6 @@ weight = 5
 URL = "contact"
 name = "Susisiekti"
 weight = 7
-[[menu.static]]
-URL = "https://digitalstart.lt/"
-name = "Digital Start"
-weight = 8
 [params]
 author = "Digital Start"
 description = "Klases.lt komanda padės jums sukurti savo online mokymus. Nuo svetainės iki video - mes pasirūpinsime, kad jūsų online mokymai būtų aukščiausios kokybės."
