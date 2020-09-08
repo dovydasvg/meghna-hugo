@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Klases.lt - Sukurkite savo Online Mokymus"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "Sukurta &copy; 2020 [Digital Start](https://digitalstart.lt/) su ❤️"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
