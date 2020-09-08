@@ -1,27 +1,26 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: Online mokymai nuo A iki Z
+  content: "Mes jums padėsime susidėlioti visas mokymų detales. Mūsų tiklsas, kad
+    online mokymai jums neštų pasyvias pajamas ir padėtų konvertuoti savo klientus
+    į studentus.\U0001F393"
+  feature_item:
+  - title: Svetainė
+    icon: ti-world
+    content: Turėkite savo profesionalią svetainę, kur jūsų klientai galės pirkti
+      mokymus ir juos pasiekti 24/7. Jokių papildomų rūpesčių.
+  - title: Easy Customization
+    icon: ti-panel
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: SEO Optimized
+    icon: ti-stats-up
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: Easy Customization
+    icon: ti-announcement
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
