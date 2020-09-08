@@ -26,7 +26,7 @@ URL = "about"
 name = "Apie mus"
 weight = 1
 [[menu.main]]
-URL = "services"
+URL = "feature"
 name = "Paslaugos"
 weight = 2
 [[menu.main]]
