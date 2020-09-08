@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Klases.lt"
+title = "Klases.lt - Sukurkite savo Online Mokymus"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -21,28 +21,28 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-Name = "Apie mus"
+name = "Apie mus"
 weight = 1
 [[menu.main]]
 URL = "services"
-Name = "Paslaugos"
+name = "Paslaugos"
 weight = 2
 [[menu.main]]
 URL = "pricing"
-Name = "Kainos"
+name = "Kainos"
 weight = 5
 [[menu.main]]
 URL = "contact"
-Name = "Susisiekti"
+name = "Susisiekti"
 weight = 7
 [[menu.static]]
 URL = "https://digitalstart.lt/"
-Name = "Digital Start"
+name = "Digital Start"
 weight = 8
 [params]
 author = "Digital Start"
 description = "Responsive Multipurpose Parallax HTML5 Template"
-google_analytics_id = ""
+google_analytics_id = "UA-177417760-1"
 logo = "/images/klases-lt-geltonas.png"
 post_share = true
 [params.map]
