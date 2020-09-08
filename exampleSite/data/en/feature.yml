@@ -12,14 +12,14 @@ feature:
     icon: ti-world
     content: Turėkite savo profesionalią svetainę, kur jūsų klientai galės pirkti
       mokymus ir juos pasiekti 24/7. Jokių papildomų rūpesčių.
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Filmavimo paslaugos
+    icon: ti-video-clapper
+    content: Profesionalūs video, kurie įtrauks jūsų studentus mokytis. Nuo šviesų
+      iki montavimo - mes pasirūpinsime kokybės užtikrinimu.
+  - title: Mokymo sistema
+    icon: ti-list-ol
+    content: Padėsime susidėlioti jūsų mokymus į aiškią sistemą - nuo prisistatymo
+      iki testų.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
