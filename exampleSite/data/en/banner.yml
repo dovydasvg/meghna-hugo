@@ -11,4 +11,4 @@ banner:
   button:
     enable: true
     label: Kur pradėti?
-    link: "#services"
+    link: "#feature"
