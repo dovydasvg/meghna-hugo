@@ -4,7 +4,7 @@ pricing:
   title: Mūsų Planai
   pricing_table:
   - name: Konsultacija
-    price: "€75"
+    price: "€50"
     unit: val
     services:
     - Mokymų strategija
@@ -37,7 +37,7 @@ pricing:
     button:
       label: Registruotis
       link: https://forms.gle/ZicAvVenFbYS6yS66
-  - name: Autonominis
+  - name: Nuo A iki Z
     price: Teirautis
     unit: ''
     services:
